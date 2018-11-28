@@ -1,0 +1,1 @@
+*/1 * * * * root sh /usr/local/sbin/packet_send/check_ftp_client.sh >/dev/null 2>&1 &
